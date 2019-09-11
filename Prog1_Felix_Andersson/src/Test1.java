@@ -11,7 +11,7 @@ public class Test1 {
 		System.out.println(tal1);
 		
 		
-		double d = 420.69; 
+		double d = 420.69; //nice
 		
 		double d1=tal2;
 		
